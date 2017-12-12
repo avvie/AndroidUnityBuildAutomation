@@ -1,7 +1,9 @@
 # AndroidUnityBuildAutomation
 A Unity Editor script that streamlines android builds on unity. Can also be used with Jenkins Server
 
-You have to set up the variables below, residing at the top of the script
+*This script should be placed in: Asstets/Editor*.
+
+You have to set up the variables below, residing at the top of the script.
 
 ```
 //appplication name 
